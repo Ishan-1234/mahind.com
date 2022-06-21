@@ -1,0 +1,21 @@
+ body
+  {
+    color:lightseagreen;
+    background:gold;
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+      color: cadetblue;
+  }
+  #camera 
+  {
+    border: 2px dashed yellow;
+    width: 350px;
+    height: 300px; 
+  }
+  .name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+      color:royalblue;
+  }
